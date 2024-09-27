@@ -1,1 +1,2 @@
-# school.bss
+# schoolwebsite
+this is demo school website
